@@ -55,7 +55,7 @@
         <br>with any questions.
       </p>
       <br>
-      <a href="mailto:jorge996650@gmail.com" >
+      <a href="https://mail.google.com/mail/u/1/#inbox" >
       <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
       <br>
@@ -63,6 +63,13 @@
    </td>
   </tr>
 </table>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Jorge9966&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Jorge9966)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Jorge9966&theme=material-palenight)](https://github.com/Jorge9966)
+</div>
 
 </details>
 
