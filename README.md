@@ -1,16 +1,26 @@
+<div align="center">
+
+![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+
+<details>
+<summary>Open profile</summary>
+<div align="Center">
+<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+<div align="center">
+<div align="center">Hi There, I'm Jorge Lopez  <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img></div>
 <table>
   <tr>
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>👑 &nbsp; Junior Java Back-end Developer </li>
+        <li>🎓 &nbsp; Student at the Tecnológico Superior Valladolid</li>
+        <li>📚 &nbsp; Future Computer Systems Engineer </li>
+        <li>👑 &nbsp; Junior Java and Python Developer </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+        <li>📚 &nbsp; Graduated in several courses such as: Cisco Network</li>
        </ul>
        <p align="center">
          <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
     </td>
     <td>
@@ -80,3 +90,9 @@
    </td>
   </tr>
 </table>
+
+</details>
+
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
+</div>
